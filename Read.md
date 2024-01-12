@@ -1,1 +1,2 @@
-# My git repository for 30 day challenge
+My 30 day Challenge from Wes Bos’ 30days of JavaScript course
+
