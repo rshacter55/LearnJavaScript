@@ -1,1 +1,1 @@
-# My git repository for 39 day challenge
+# My git repository for 30 day challenge
